@@ -1,0 +1,16 @@
+{
+  "name": "office-monitor-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for the office electricity monitor — reads from the shared backend API",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.4.5",
+    "socket.io-client": "^4.8.1"
+  }
+}
