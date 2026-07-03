@@ -1,0 +1,12 @@
+node_modules/
+.env
+dist/
+npm-debug.log*
+.DS_Store
+
+# runtime data
+backend/src/data/waste-log.json
+chroma-data/
+
+# local-only working files (never push — the brief forbids Mermaid diagrams)
+SYSTEM-DIAGRAM.local.md
