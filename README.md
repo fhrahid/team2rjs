@@ -1,5 +1,10 @@
 # ⚡ Lights, Fans, Discord: The Boss's Big Idea
 
+<p align="center">
+  <img src="docs/team2rjs.jpeg" alt="Team 2r.js" width="500" />
+</p>
+<p align="center"><strong>Team 2r.js</strong></p>
+
 A complete office electricity monitoring system: a simulated device layer, one shared
 backend API, a real-time web dashboard, and a Discord bot — all reading from a **single
 source of truth**.
