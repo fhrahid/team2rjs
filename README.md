@@ -76,7 +76,7 @@ and (3) ask a bot about it right from Discord. No real hardware — device data 
 **System diagram:** ![System diagram](docs/system-diagram.png)
 **Circuit schematic (Wokwi):** ![Wokwi circuit](docs/wokwi-circuit-schematic.png) — ESP32-based sensing circuit for one representative room: DIP switches simulate manual on/off, relays drive the 2 fans + 3 lights, potentiometers stand in for per-device current sensing, and a PIR sensor detects occupancy.
 **Wokwi project files:** [`docs/wokwi/diagram.json`](docs/wokwi/diagram.json) (open at wokwi.com) + [`docs/wokwi/sketch.ino`](docs/wokwi/sketch.ino) (ESP32 firmware)
-**Demo video:** [Watch the 3-minute demo](PASTE_GOOGLE_DRIVE_LINK_HERE) *(set Drive sharing to "Anyone with the link → Viewer")*
+**Demo video:** [▶ Watch the demo (Google Drive)](https://drive.google.com/file/d/13Vr0N82hwxY4NgiKc1PnB4aGLKgwbS1j/view)
 
 ## 🚀 How to Run
 
